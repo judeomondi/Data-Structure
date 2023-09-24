@@ -1,0 +1,15 @@
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.csproj.AssemblyReference.cache
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.AssemblyInfoInputs.cache
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.AssemblyInfo.cs
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.csproj.CoreCompileInputs.cache
+/Users/jude.omondi/Projects/Datastructures/Datastructures/bin/Debug/net7.0/Datastructures
+/Users/jude.omondi/Projects/Datastructures/Datastructures/bin/Debug/net7.0/Datastructures.deps.json
+/Users/jude.omondi/Projects/Datastructures/Datastructures/bin/Debug/net7.0/Datastructures.runtimeconfig.json
+/Users/jude.omondi/Projects/Datastructures/Datastructures/bin/Debug/net7.0/Datastructures.dll
+/Users/jude.omondi/Projects/Datastructures/Datastructures/bin/Debug/net7.0/Datastructures.pdb
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.dll
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/refint/Datastructures.dll
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.pdb
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/Datastructures.genruntimeconfig.cache
+/Users/jude.omondi/Projects/Datastructures/Datastructures/obj/Debug/net7.0/ref/Datastructures.dll
